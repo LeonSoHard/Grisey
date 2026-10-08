@@ -1,22 +1,7 @@
-**/Builds
-**/JuceLibraryCode
-**/Unnamed.filtergraph
-**/GriseyTesting.logicx
-**/Spec
-**/.DS_Store
-**/demo.gif
-**/demo.mov
-**/test-audio.mp3
-build/
-legacy/
-build-*/
-cmake-build-*/
-.vscode/
-.idea/
-
-# Films written by GriseySnapshot frames=, which are gigabytes of raw pixels
-*.raw
-
-# Films of the editor (docs/film): tens of megabytes that every clone would carry for ever. The one on
-# the README is hosted by GitHub as an attachment; the rest are for the website.
-docs/film/
+   __pycache__/
+   *.pyc
+   .venv/
+   venv/
+   .idea/
+   .vscode/
+   .DS_Store
